@@ -22,7 +22,7 @@
         tools:layout="@layout/detail_fragment">
         <argument
             android:name="detailEntity"
-            app:argType="com.sap.coding.challenge.model.ApodEntity" />
+            app:argType="com.walmart.coding.challenge.model.ApodEntity" />
     </fragment>
 
 </navigation>

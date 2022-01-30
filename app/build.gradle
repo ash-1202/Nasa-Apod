@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.sap.coding.challenge"
+        applicationId "com.walmart.coding.challenge"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
